@@ -1,0 +1,21 @@
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\bin\Debug\SMSbomberBYREX.exe
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\bin\Debug\SMSbomberBYREX.pdb
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\bin\Debug\SMSbomberBYREX.xml
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\ResolveAssemblyReference.cache
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.MainForm.resources
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.Resources.resources
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.vbproj.GenerateResource.Cache
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.exe
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.xml
+D:\Visual Basic Programs\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.pdb
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\bin\Debug\SMSbomberBYREX.exe
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\bin\Debug\SMSbomberBYREX.pdb
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\bin\Debug\SMSbomberBYREX.xml
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.vbprojAssemblyReference.cache
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.MainForm.resources
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.Resources.resources
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.vbproj.GenerateResource.cache
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.vbproj.CoreCompileInputs.cache
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.exe
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.xml
+C:\Users\Dade Murphy\Desktop\SMSBOMBER\SMSbomberBYREX\SMSbomberBYREX\obj\Debug\SMSbomberBYREX.pdb
