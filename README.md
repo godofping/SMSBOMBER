@@ -1,6 +1,6 @@
 # SMS BOMBER
 
-> A simple sms bomber using gsm module.
+> A simple sms bomber using gsm modem.
 
 **Features:**
 
