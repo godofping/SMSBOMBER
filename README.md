@@ -6,6 +6,6 @@
 
 -Send multiple sms
 
-Technologies Used:
+Technology Used:
 - vb.net
 
